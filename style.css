@@ -1,0 +1,21 @@
+body{
+    background-color: darkgreen;
+}
+.one{
+    border: 3px solid red;
+    width: 896px;
+    height: 400px;
+    margin: 0 auto;
+    padding: 30px;
+    background-color: black;
+}
+.two{
+    border: 2px solid black;
+    background-color: aqua;
+    height: 200px;
+}
+.three{
+    border: 2px solid black;
+    background-color: aqua;
+    height: 200px;
+}
